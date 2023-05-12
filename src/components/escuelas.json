@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nombre": "ITA insituto tecnologico de Aguascalientes", "Direccion": "123 Main St", "telefono": 1234567891
+  ,"horario": "06:00-19:00 horas" , "longitud": -102.2645377487473, "latitud": 21.87675533211121 },
+  { "id": 2, "nombre": "UAA Unidversidad autonoma de Aguascalientes", "Direccion": "123 Second St", "telefono": 1234567891
+  ,"horario": "06:00-19:00 horas" , "longitud":-102.291867, "latitud": 21.883733}
+]
+ 
+
